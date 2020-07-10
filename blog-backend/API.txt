@@ -1,0 +1,16 @@
+POST
+    /
+GET
+    /
+    /:id
+PUT
+    /:id
+DELETE
+    /:id
+
+Blog 
+    title
+    author
+    url
+    likes
+
